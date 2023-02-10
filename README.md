@@ -25,6 +25,13 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+
+## Tech Stack used
+ReactTS <br/>
+Tailwind <br/>
+MaterialUI <br/>
+
+
 ## How to use the app
 Under `Home` page I list all Sprints and Tickets. 
 Every table has a button where we can create a Sprint or a Ticket. 
